@@ -1,3 +1,16 @@
+---
+title: YouTube Assistant
+emoji: 🤖
+colorFrom: blue
+colorTo: yellow
+sdk: streamlit
+sdk_version: 1.44.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: Generate Blogs,Notes and Summarize YouTube Video
+---
+
 # 🎬 YouTube Assistant
 
 A powerful tool that leverages LLMs (Large Language Models) to automatically generate blogs, summaries, and study notes from YouTube videos.
