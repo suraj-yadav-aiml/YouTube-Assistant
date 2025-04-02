@@ -1,0 +1,1 @@
+from src.youtube_assistant.main import youtube_assistant
