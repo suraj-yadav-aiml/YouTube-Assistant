@@ -45,7 +45,7 @@ Follow these steps to set up YouTube Assistant locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/youtube-assistant.git
+   git clone https://github.com/suraj-yadav-aiml/youtube-assistant.git
    cd youtube-assistant
    ```
 
